@@ -10,16 +10,26 @@ O objetivo é construir um mini motor de busca semântico capaz de recuperar not
 O pipeline foi dividido em três etapas principais:
 
 noticias_brutas.json
+
+     
         ↓
+        
 [Limpeza de texto]
+        
         ↓
+        
 dados_limpos.json
+        
         ↓
+        
 [Geração de embeddings]
         ↓
+        
 embeddings.npy
         ↓
+        
 [Busca semântica]
+
  Tecnologias Utilizadas
 Python
 BeautifulSoup (remoção de HTML)
