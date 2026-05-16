@@ -25,7 +25,8 @@ dados_limpos.json
 [Geração de embeddings]
         ↓
         
-embeddings.npy
+  embeddings.npy
+        
         ↓
         
 [Busca semântica]
