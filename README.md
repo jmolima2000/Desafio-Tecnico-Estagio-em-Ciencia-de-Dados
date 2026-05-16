@@ -27,6 +27,7 @@ Sentence Transformers (embeddings)
 Scikit-learn (similaridade de cosseno)
 NumPy
 Pandas
+
  Etapa 1 — Limpeza e Tratamento de Texto
 Problema
 
@@ -54,7 +55,9 @@ Resultado
 Os dados limpos são salvos em:
 
 dados/noticias_limpas.json
+
  Etapa 2 — Geração de Embeddings
+ 
 Abordagem
 
 Cada notícia foi transformada em um vetor numérico (embedding), combinando:
