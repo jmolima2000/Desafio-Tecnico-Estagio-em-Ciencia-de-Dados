@@ -105,22 +105,30 @@ Similaridade
 Trecho do texto
 
  Como Executar o Projeto
+ 
 1. Clonar repositório
 git clone SEU_LINK_AQUI
 cd desafio-ciencia-de-dados-ibre
+
 2. Criar ambiente virtual
 python -m venv venv
-3. Ativar ambiente
+
+4. Ativar ambiente
+   
 
 Windows (Git Bash):
 
+
 source venv/Scripts/activate
+
 4. Instalar dependências
 pip install -r requirements.txt
+
 5. Executar pipeline completo
 python main.py
 
  Validação das Consultas
+
 Consulta 1
 "mudanças na taxa de juros"
 
