@@ -182,17 +182,21 @@ Peso maior para títulos
 Interface web para consultas
 Filtros por data e fonte
 
- Estrutura do Projeto
+ Estrutura do Projeto:
 .
 ├── dados/
+
 │   ├── noticias_brutas.json
 │   ├── noticias_limpas.json
 │
+
 ├── src/
+
 │   ├── limpeza.py
 │   ├── embeddings.py
 │   └── busca.py
 │
+
 ├── main.py
 ├── requirements.txt
 └── README.md
